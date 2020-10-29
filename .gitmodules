@@ -1,8 +1,4 @@
 
-[submodule "public"]
-	path = public
-	url = git@github.com:CALDISS-AAU/sdsphd19.git
-	branch = master
 [submodule "themes/hugo-whisper-theme"]
 	path = themes/hugo-whisper-theme
 	url = https://github.com/zerostaticthemes/hugo-whisper-theme.git
