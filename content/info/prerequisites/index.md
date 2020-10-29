@@ -21,13 +21,13 @@ Most of the PhD course will require you to either follow along an online noteboo
 
 **Have a working Google account**
 
-During the course you will work through interactive notebooks on <a href=http://colab.research.google.com/ target = "_blank">Google Colab</a>.
+During the course you will work through interactive notebooks on [Google Colab](http://colab.research.google.com/).
 
 To use Google Colab, all you need is a working Google account.
 
-You can <a href=https://accounts.google.com/signup/v2/webcreateaccount?hl=en.&flowName=GlifWebSignIn&flowEntry=SignUp target = "_blank">create a Google account for free</a>.
+You can [create a Google account for free](https://accounts.google.com/signup/v2/webcreateaccount?hl=en.&flowName=GlifWebSignIn&flowEntry=SignUp).
 
-Links to the course notebooks will be provided at the lectures and will be made available <a href = {{< ref "../../sessions/_index.md">}}>here</a>.
+Links to the course notebooks will be provided at the lectures and will be made available [here]({{< ref "../../sessions/_index.md" >}}).
 
 
 

@@ -7,27 +7,27 @@ summary: "The team of lecturers and organizers."
 ---
 
 ## Lecturers:
-- <a href={{< relref "#thomasa" >}}>Thomas Arildsen</a>
-- <a href={{< relref "#danielsh" >}}>Daniel S. Hain</a>
-- <a href={{< relref "#tobiaslj" >}}>Tobias L. Jensen</a>
-- <a href={{< relref "#romanj" >}}>Roman Jurowetzki</a>
-- <a href={{< relref "#rolfll" >}}>Rolf L. Lund</a>
-- <a href={{< relref "#thomasbm" >}}>Thomas B. Moeslund</a>
+- [Thomas Arildsen]({{< relref "#thomasa" >}})
+- [Daniel S. Hain]({{< relref "#danielsh" >}})
+- [Tobias L. Jensen]({{< relref "#tobiaslj" >}})
+- [Roman Jurowetzki]({{< relref "#romanj" >}})
+- [Rolf L. Lund]({{< relref "#rolf" >}})
+- [Thomas B. Moeslund]({{< relref "#thomasbm" >}})
 
 ## Organizers
-- <a href={{< relref "#danielsh" >}}>Daniel S. Hain</a>
-- <a href={{< relref "#romanj" >}}>Roman Jurowetzki</a>
-- <a href={{< relref "#rolfll" >}}>Rolf L. Lund</a>
-- <a href={{< relref "#kristiangk" >}}>Kristian G. Kjelmann</a>
-- <a href={{< relref "#thomasbm" >}}>Thomas B. Moeslund</a>
+- [Daniel S. Hain]({{< relref "#danielsh" >}})
+- [Roman Jurowetzki]({{< relref "#romanj" >}})
+- [Rolf L. Lund]({{< relref "#rolf" >}})
+- [Kristian G. Kjelmann]({{< relref "#kristian" >}})
+- [Thomas B. Moeslund]({{< relref "#thomasbm" >}})
 
-### <a id="thomasa" href = https://vbn.aau.dk/en/persons/104579 target = "_blank"> ![thomasa](/sdsphd19/img/ta_head.png) Thomas Arildsen</a>
+### {{<rawhtml>}}<a id = "thomasa"></a>{{</>}}[![thomasa]( /img/ta_head.png) Thomas Arildsen](https://vbn.aau.dk/en/persons/104579)
 
-Special Consultant at <a href = https://www.claaudia.aau.dk/ target = "_blank">CLAAUDIA</a> at Aalborg University.
+Special Consultant at [CLAAUDIA](https://www.claaudia.aau.dk/) at Aalborg University.
 
 ---
 
-### <a "danielsh" href = https://vbn.aau.dk/en/persons/126725 target = "_blank"> ![daniel](/sdsphd19/img/dsh_head.png) Daniel S. Hain</a>
+### {{<rawhtml>}}<a id = "danielsh"></a>{{</>}}[![danielsh]( /img/dsh_head.png) Daniel S. Hain](https://vbn.aau.dk/en/persons/126725)
 
 Associate Professor in Innovation Studies and Data Science at Aalborg University.
 
@@ -35,13 +35,13 @@ Having a background in engineering, I somehow became an economist, interested in
 
 ---
 
-###  <a id="tobiaslj" href = https://vbn.aau.dk/en/persons/115205 target = "_blank"> ![tobias](/sdsphd19/img/tlj_head.png) Tobias L. Jensen</a>
+### {{<rawhtml>}}<a id = "tobiaslj"></a>{{</>}}[![tobiaslj]( /img/tlj_head.png) Tobias L. Jensen](https://vbn.aau.dk/en/persons/115205)
 
-Special Consultant at <a href = https://www.claaudia.aau.dk/ target = "_blank">CLAAUDIA</a> at Aalborg University.
+Special Consultant at [CLAAUDIA](https://www.claaudia.aau.dk/) at Aalborg University.
 
 ---
 
-### <a id="romanj" href = https://vbn.aau.dk/en/persons/125497 target = "_blank"> ![roman](/sdsphd19/img/rj_head.jpg) Roman Jurowetzki </a>
+### {{<rawhtml>}}<a id = "romanj"></a>{{</>}}[![romanj](/img/rj_head.jpg) Roman Jurowetzki](https://vbn.aau.dk/en/persons/125497)
 
 Associate Professor in Innovation Studies and Data Science at Aalborg University.
 
@@ -49,16 +49,16 @@ I come from a crossdisciplinary social science background. After my master in in
 
 ---
 
-### <a id="kristiangk" href = https://vbn.aau.dk/en/persons/137409 target = "_blank"> ![kristian](/sdsphd19/img/kgk_head.png) Kristian G. Kjelmann</a>
+### {{<rawhtml>}}<a id = "kristian"></a>{{</>}}[![kristian]( /img/kgk_head.png) Kristian G. Kjelmann](https://vbn.aau.dk/en/persons/137409)
 
-General Manager of <a href = https://www.en.caldiss.aau.dk/ target = "_blank">CALDISS</a> at Aalborg University.
+General Manager of [CALDISS](https://www.en.caldiss.aau.dk/) at Aalborg University.
 
 During my master in sociology I discovered the various potentials of digital methods and programming tools - especially in text analysis. I wrote my masters in higher education organisation using self-taught methods from text mining and the like.
 I now run CALDISS (Computational Analytics Laboratory for Digital Social Science) at the Faculty of Social Sciences at Aalborg University, where I promote and teach the potentials in digital methods and data science to our researchers and students while collaborating and engaging in cross-disciplinary research projects using data science methods.
 
 ---
 
-### <a id="rolfll" href = https://vbn.aau.dk/en/persons/133224 target = "_blank"> ![rolf](/sdsphd19/img/rll_head.png) Rolf L. Lund</a>
+### {{<rawhtml>}}<a id = "rolf"></a>{{</>}}[![rolf]( /img/rll_head.png) Rolf L. Lund](https://vbn.aau.dk/en/persons/133224)
 
 Assistant Professor at Sociology and Social Work at Aalborg University.
 
@@ -66,7 +66,7 @@ I have a background in sociology. After my master in sociology of education I wa
 
 ---
 
-### <a id="thomasbm" href = https://vbn.aau.dk/en/persons/103282 target = "_blank"> ![thomasm](/sdsphd19/img/tbm_head.png) Thomas B. Moeslund</a>
+### {{<rawhtml>}}<a id = "thomasbm"></a>{{</>}}[![thomasbm](/img/tbm_head.png) Thomas B. Moeslund](https://vbn.aau.dk/en/persons/103282)
 
 Professor in Media Technology and Computer Vision at Aalborg University
 
