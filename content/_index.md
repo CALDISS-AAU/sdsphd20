@@ -16,6 +16,9 @@ This is the repository page for the PhD Course
 <br />
 {{</>}}
 
+## NOTE: This course will be held entirely online!
+
+Due to the continued COVID-19 precautions, this course will now be held entirely online. Read more on our [practical information page]({{<ref "info/practical/index.md" >}}).
 
 ## Wi-Fi
 ...

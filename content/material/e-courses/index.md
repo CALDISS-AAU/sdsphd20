@@ -1,6 +1,5 @@
 ---
 title: "E-Courses (DataCamp)"
-date: 2019-11-04T18:34:38+01:00
 summary: "DataCamp provides access to e-courses. These are mandatory preparation."
 draft: false
 type: "withtoc"
@@ -119,87 +118,29 @@ https://www.datacamp.com/courses/statistical-thinking-in-python-part-1
 
 ## Supplementary courses for Monday (Nov. 23rd)
 
-**pandas Foundations**
 
-https://www.datacamp.com/courses/pandas-foundations
-
-
-
-**Manipulating DataFrames with pandas**
-
-https://www.datacamp.com/courses/manipulating-dataframes-with-pandas
-
-
-
-**Merging DataFrame with pandas**
-
-https://www.datacamp.com/courses/merging-dataframes-with-pandas
-
-
-
-**Importing Data in Python (Part 2)**
-
-https://www.datacamp.com/courses/importing-data-in-python-part-2
 
 ---
 
 ## Supplementary courses for Tuesday (Nov. 24th)
 
-**Unsupervised Learning in Python**
 
-https://www.datacamp.com/courses/unsupervised-learning-in-python
-
-
-
-**Supervised Learning with scikit-learn**
-
-https://www.datacamp.com/courses/supervised-learning-with-scikit-learn
-
-
-
-**Machine Learning with Tree-Based Models in Python**
-
-https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python
 
 ---
 
 ## Supplementary courses for Wednesday (Nov. 25th)
 
-**Network Analysis in Python (part 1)**
 
-https://www.datacamp.com/courses/network-analysis-in-python-part-1
-
-
-
-**Network Analysis in Python (part 2)**
-
-https://www.datacamp.com/courses/network-analysis-in-python-part-2
 
 ---
 
 ## Supplementary courses for Thursday (Nov. 26th)
 
-**Natural Language Processing Fundamentals in Python**
 
-https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python
-
-
-
-**Feature Engineering for NLP in Python**
-
-https://www.datacamp.com/courses/feature-engineering-for-nlp-in-python
 
 ---
 
 ## Supplementary courses for Friday (Nov. 27th)
 
-**Web Scraping in Python**
 
-https://www.datacamp.com/courses/web-scraping-with-python
-
-
-
-**Analyzing Social Media Data in Python**
-
-https://www.datacamp.com/courses/analyzing-social-media-data-in-python
 
