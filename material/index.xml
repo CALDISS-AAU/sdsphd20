@@ -8,21 +8,21 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://caldiss-aau.github.io/sdsphd20/material/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>E-Courses (DataCamp)</title>
-      <link>https://caldiss-aau.github.io/sdsphd20/material/e-courses/</link>
-      <pubDate>Mon, 04 Nov 2019 18:34:38 +0100</pubDate>
-      
-      <guid>https://caldiss-aau.github.io/sdsphd20/material/e-courses/</guid>
-      <description>DataCamp provides access to e-courses. These are mandatory preparation.</description>
-    </item>
-    
-    <item>
       <title>Course schedule</title>
       <link>https://caldiss-aau.github.io/sdsphd20/material/course_schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://caldiss-aau.github.io/sdsphd20/material/course_schedule/</guid>
       <description>The schedule for the course with links to the relevant sessions</description>
+    </item>
+    
+    <item>
+      <title>E-Courses (DataCamp)</title>
+      <link>https://caldiss-aau.github.io/sdsphd20/material/e-courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://caldiss-aau.github.io/sdsphd20/material/e-courses/</guid>
+      <description>DataCamp provides access to e-courses. These are mandatory preparation.</description>
     </item>
     
     <item>
