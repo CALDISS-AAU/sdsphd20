@@ -21,7 +21,7 @@ summary: "The team of lecturers and organizers."
 - [Kristian G. Kjelmann]({{< relref "#kristian" >}})
 - [Thomas B. Moeslund]({{< relref "#thomasbm" >}})
 
-### {{<rawhtml>}}<a id = "thomasa"></a>{{</>}}[![thomasa]( /img/ta_head.png) Thomas Arildsen](https://vbn.aau.dk/en/persons/104579)
+### {{<rawhtml>}}<a id = "thomasa"></a>{{</>}}[![thomasa](/img/ta_head.png) Thomas Arildsen](https://vbn.aau.dk/en/persons/104579)
 
 Special Consultant at [CLAAUDIA](https://www.claaudia.aau.dk/) at Aalborg University.
 
