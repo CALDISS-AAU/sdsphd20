@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://caldiss-aau.github.io/"
 languageCode = "en-us"
 title = "AAU Social Data Science PhD 2020"
 themesDir = "themes"
