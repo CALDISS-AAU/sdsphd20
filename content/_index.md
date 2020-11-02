@@ -20,5 +20,9 @@ This is the repository page for the PhD Course
 
 Due to the continued COVID-19 precautions, this course will now be held entirely online. Read more on our [practical information page]({{<ref "info/practical/index.md" >}}).
 
-## Wi-Fi
-...
+
+
+## The first check-in session is coming up! (November 4th)
+
+The first check-in session for this course is coming up. Read more [here]({{< ref "./material/check-ins/index.md" >}})
+

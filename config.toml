@@ -1,10 +1,10 @@
-baseURL = "https://caldiss-aau.github.io/"
+baseURL = "https://caldiss-aau.github.io/sdsphd20/"
 languageCode = "en-us"
 title = "AAU Social Data Science PhD 2020"
 themesDir = "themes"
 theme = "hugo-whisper-theme"
 enableEmoji = true
-relativeurls = true
+relativeurls = false
 
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true

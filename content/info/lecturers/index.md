@@ -21,13 +21,13 @@ summary: "The team of lecturers and organizers."
 - [Kristian G. Kjelmann]({{< relref "#kristian" >}})
 - [Thomas B. Moeslund]({{< relref "#thomasbm" >}})
 
-### {{<rawhtml>}}<a id = "thomasa"></a>{{</>}}[![thomasa](/img/ta_head.png) Thomas Arildsen](https://vbn.aau.dk/en/persons/104579)
+### {{<rawhtml>}}<a id = "thomasa"></a>{{</>}}[![thomasa]( /sdsphd20/img/ta_head.png) Thomas Arildsen](https://vbn.aau.dk/en/persons/104579)
 
 Special Consultant at [CLAAUDIA](https://www.claaudia.aau.dk/) at Aalborg University.
 
 ---
 
-### {{<rawhtml>}}<a id = "danielsh"></a>{{</>}}[![danielsh]( /img/dsh_head.png) Daniel S. Hain](https://vbn.aau.dk/en/persons/126725)
+### {{<rawhtml>}}<a id = "danielsh"></a>{{</>}}[![danielsh]( /sdsphd20/img/dsh_head.png) Daniel S. Hain](https://vbn.aau.dk/en/persons/126725)
 
 Associate Professor in Innovation Studies and Data Science at Aalborg University.
 
@@ -35,13 +35,13 @@ Having a background in engineering, I somehow became an economist, interested in
 
 ---
 
-### {{<rawhtml>}}<a id = "tobiaslj"></a>{{</>}}[![tobiaslj]( /img/tlj_head.png) Tobias L. Jensen](https://vbn.aau.dk/en/persons/115205)
+### {{<rawhtml>}}<a id = "tobiaslj"></a>{{</>}}[![tobiaslj](/sdsphd20/img/tlj_head.png) Tobias L. Jensen](https://vbn.aau.dk/en/persons/115205)
 
 Special Consultant at [CLAAUDIA](https://www.claaudia.aau.dk/) at Aalborg University.
 
 ---
 
-### {{<rawhtml>}}<a id = "romanj"></a>{{</>}}[![romanj](/img/rj_head.jpg) Roman Jurowetzki](https://vbn.aau.dk/en/persons/125497)
+### {{<rawhtml>}}<a id = "romanj"></a>{{</>}}[![romanj](/sdsphd20/img/rj_head.jpg) Roman Jurowetzki](https://vbn.aau.dk/en/persons/125497)
 
 Associate Professor in Innovation Studies and Data Science at Aalborg University.
 
@@ -49,7 +49,7 @@ I come from a crossdisciplinary social science background. After my master in in
 
 ---
 
-### {{<rawhtml>}}<a id = "kristian"></a>{{</>}}[![kristian]( /img/kgk_head.png) Kristian G. Kjelmann](https://vbn.aau.dk/en/persons/137409)
+### {{<rawhtml>}}<a id = "kristian"></a>{{</>}}[![kristian](/sdsphd20/img/kgk_head.png) Kristian G. Kjelmann](https://vbn.aau.dk/en/persons/137409)
 
 General Manager of [CALDISS](https://www.en.caldiss.aau.dk/) at Aalborg University.
 
@@ -58,7 +58,7 @@ I now run CALDISS (Computational Analytics Laboratory for Digital Social Science
 
 ---
 
-### {{<rawhtml>}}<a id = "rolf"></a>{{</>}}[![rolf]( /img/rll_head.png) Rolf L. Lund](https://vbn.aau.dk/en/persons/133224)
+### {{<rawhtml>}}<a id = "rolf"></a>{{</>}}[![rolf](/sdsphd20/img/rll_head.png) Rolf L. Lund](https://vbn.aau.dk/en/persons/133224)
 
 Assistant Professor at Sociology and Social Work at Aalborg University.
 
@@ -66,7 +66,7 @@ I have a background in sociology. After my master in sociology of education I wa
 
 ---
 
-### {{<rawhtml>}}<a id = "thomasbm"></a>{{</>}}[![thomasbm](/img/tbm_head.png) Thomas B. Moeslund](https://vbn.aau.dk/en/persons/103282)
+### {{<rawhtml>}}<a id = "thomasbm"></a>{{</>}}[![thomasbm](/sdsphd20/img/tbm_head.png) Thomas B. Moeslund](https://vbn.aau.dk/en/persons/103282)
 
 Professor in Media Technology and Computer Vision at Aalborg University
 
