@@ -48,4 +48,9 @@ We will make an effort of explaining verbally what we are doing, so that you can
 
 
 
+## Online forum (Slack)
+
+To provide assistance and foster discussion leading up to and during the course, we have set up a [Slack](https://slack.com/) workspace for the PhD course. Use this forum to post questions about Python, the e-course material and the sessions as well as a general forum for discussion.
+
+If you have not received a link to the Slack workspace, please contact Kristian Gade Kjelmann (<a href="mailto:kgk@adm.aau.dk">kgk@adm.aau.dk</a>).
 

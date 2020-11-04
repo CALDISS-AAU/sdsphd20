@@ -18,7 +18,7 @@ We strongly advice participants to complete as much as the mandatory course curr
 
 If you are participating in the course, you should have received a DataCamp invite via the e-mail you registered with (make sure to check your spam filter).
 
-Please contact the course organizer, Kristian Gade Kjelmann (<a href="mailto:kgk@adm.aau.dk">kgk@adm.aau.dk</a>), if you have not received an invite.
+Please contact Kristian Gade Kjelmann (<a href="mailto:kgk@adm.aau.dk">kgk@adm.aau.dk</a>), if you have not received an invite.
 
 ---
 

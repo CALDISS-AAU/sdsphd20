@@ -36,3 +36,9 @@ Links to the course notebooks will be provided at the lectures and will be made 
 There are a lot of ways to install and use python on your computer. Differences in configurations can quickly lead to programming environment problems (elements of your setup not being configured correctly). In order to avoid any issues with installation and configuration, we are using Google Colab where everything is properly configured in Google's cloud services.
 
 On this site, we will provide short guides on how to install Python with a proper IDE but we encourage you to contact your local IT department or the like to help you get set up on your own computer.
+
+
+
+**If you do not want to use Google**
+
+If you do not want to use Google Colab or prefer a local installation, we recommend using the [Anaconda Distribution](https://www.anaconda.com/). Installing Anaconda installs Python on your computer as well as various IDE's (Integrated Development Environments) for using Python. Among these are Jupyter Notebook and JupyterLab which allows you to write notebooks that combines Python code and text. This is what is used on Google Colab as well. Read more about Jupyter Notebook and JupyterLab at https://jupyter.org/.
