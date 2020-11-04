@@ -22,7 +22,7 @@ Due to the continued COVID-19 precautions, this course will now be held entirely
 
 
 
-## The first check-in session is coming up! (November 4th)
+## The next check-in session is coming up! (November 16th)
 
-The first check-in session for this course is coming up. Read more [here]({{< ref "./material/check-ins/index.md" >}})
+The next check-in session for this course is coming up. Read more [here]({{< ref "./material/check-ins/index.md" >}}).
 
