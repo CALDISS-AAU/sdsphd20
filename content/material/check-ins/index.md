@@ -53,3 +53,8 @@ At this check-in we will follow-up on how you are doing with the provided e-cour
 
 **Zoom info**
 
+Join Zoom Meeting 
+https://aaudk.zoom.us/j/61237248278 
+
+Meeting ID: 612 3724 8278 
+Passcode: 293951 
