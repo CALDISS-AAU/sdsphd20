@@ -65,7 +65,7 @@ https://www.datacamp.com/projects/20
 
 ---
 
-## Further preparation for the course (~14 hours)
+## Further preparation for the course (~17 hours)
 
 These courses are not mandatory but will prepare you further for the course.
 
@@ -108,11 +108,21 @@ https://www.datacamp.com/courses/regular-expressions-in-python
 
 
 
-**Statistical thinking in python (3 hours)**
+**Statistical thinking in python part 1 (3 hours)**
 
 https://www.datacamp.com/courses/statistical-thinking-in-python-part-1
 
 - Entire course
+
+
+
+**Statistical thinking in python part 2 (3 hours)**
+
+https://learn.datacamp.com/courses/statistical-thinking-in-python-part-2
+
+- Entire course
+
+
 
 ---
 

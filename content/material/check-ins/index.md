@@ -37,6 +37,14 @@ Passcode: 864851
 
 
 
+**Slides and recording**
+
+Slides from the check-in can be downloaded [here](https://raw.githubusercontent.com/CALDISS-AAU/sdsphd20/master/slides/present_sdsphd20_check-in-I.pdf).
+
+Recording from the check-in can be seen [here](https://youtu.be/41LH-0x84Ws).
+
+
+
 ### Check-in II: Monday November 16th from 13.00-14.30
 
 At this check-in we will follow-up on how you are doing with the provided e-course material. 
@@ -44,3 +52,4 @@ At this check-in we will follow-up on how you are doing with the provided e-cour
 
 
 **Zoom info**
+
