@@ -1,6 +1,5 @@
 ---
 title: "Course Sessions"
-date: 2019-11-04T16:31:46+01:00
 weight: 1
 summary: "Notebooks for the course sessions can be found here"
 type: "list_nopages"

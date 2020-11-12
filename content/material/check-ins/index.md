@@ -47,7 +47,21 @@ Recording from the check-in can be seen [here](https://youtu.be/41LH-0x84Ws).
 
 ### Check-in II: Monday November 16th from 13.00-14.30
 
-At this check-in we will follow-up on how you are doing with the provided e-course material. 
+At this check-in we will follow-up on how you are doing with the provided e-course material as well as introduce you to Google Colab. 
+
+**Schedule**
+
+13:00-13:15: Follow-up on e-course material with questions
+
+13:15-13:25: Introducing how to use the course page during the course
+
+13:25-13:45: Demo: How Google Colab will be used during the course
+
+13:45-13:50: Break
+
+13:50-14:20: [In breakout] Instructor discussions: Applications of Python in research.
+
+14:20-14:30: Final questions
 
 
 
