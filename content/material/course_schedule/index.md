@@ -52,7 +52,7 @@ The main course takes place from November 23rd to November 27th. Before the cour
 | Time        | Module                                                       | Link to Zoom              | Instructor                          |
 | ----------- | ------------------------------------------------------------ | ----------------------------------- | ----------------------------------- |
 | 9:00-10:30  | **Explainable AI**|  | Thomas B. Moeslund |
-| 10:30-12:00 | **Explainability in Machine Learning**|  | Daniel S. Hain & Roman Jurowetzki |
+| 10:30-12:00 | **Evaluating Machine Learning Models** |  | Daniel S. Hain & Roman Jurowetzki |
 | 12:00-13:00 | *LUNCH*                   |                                     |                                     |
 | 13:00-14:00 | **Methodological Outlook** |  | TBD |
 | 14:00 | **Goodbye!**| | |
