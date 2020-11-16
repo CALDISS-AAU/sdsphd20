@@ -13,6 +13,10 @@ Click on "Open in Colab" to open the notebook in Google Colab. You will be promp
 ## How to use this page
 {{< youtube UtVJvRnIlZk >}}
 
+### Demo notebook
+
+**A quick introduction to Google Colab and Notebooks**[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd20/blob/master/notebooks/check-ins/sdsphd20_colab-demo.ipynb#&offline=true&sandboxMode=true)
+
 ---
 ## Monday
 ---
