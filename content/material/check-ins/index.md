@@ -57,11 +57,7 @@ At this check-in we will follow-up on how you are doing with the provided e-cour
 
 13:25-13:45: Demo: How Google Colab will be used during the course
 
-13:45-13:50: Break
-
-13:50-14:20: [In breakout] Instructor discussions: Applications of Python in research.
-
-14:20-14:30: Final questions
+13:45-14:00: Final questions
 
 
 
