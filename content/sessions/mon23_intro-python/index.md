@@ -5,8 +5,6 @@ weight: 1
 summary: "Description and notebook for Monday November 23rd"
 ---
 
-
-
 Language: English
 ### Timeline
 Session I: 9.00--12.00
@@ -24,35 +22,33 @@ The day is based on [participatory live coding](https://carpentries.github.io/in
 ### Content
 
 1. (1/2 h) Why? workflow? Setting the scene - packages/eco-system - sharing - visibility - literate programming - reproducibility 
-2. Getting started with Jupyter Notebook
-  1. (1 1/2 h) Python and Jupyter basics
-     1. Running cells, data types
-     2. Arithmetic
-     3. Control (if)
-     4. For-loops (and list comprehension)
-     5. Functions (+ doc-strings)
-     6. Objects and methods
-     7. Shift-tab and help
-     8. Shortcuts
-     9. Comments (Markdown) and Latex-ify
-     10. Cell execution order and state (pitfalls of arbitrary execution order)
-     11. JSON and dictionaries
-3. (2 h) Pandas
+2. (2 h) Getting started with Jupyter Notebook
+  1. Running cells, data types
+  2. Arithmetic
+  3. Control (if)
+  4. For-loops (and list comprehension)
+  5. Functions (+ doc-strings)
+  6. Objects and methods
+  7. Shift-tab and help
+  8. Shortcuts
+  9. Comments (Markdown) and Latex-ify
+  10. Cell execution order and state (pitfalls of arbitrary execution order)
+  11. Dictionaries and JSON (if time permits)
+3. (2 1/4 h) Pandas
   1. Intro and key data structures
   2. Iterating - lists and dictionaries
-  3. Parsing CSV files
-  4. Populating and writing to a file (CSV, STATA, SAS)
-  5. Extracting columns/rows - indexing and selecting
-  6. Handling missing data
-  7. Simple statistics (mean, count, median, min, max, std, corr)
+  3. File handling (CSV, STATA, SAS)
+  4. Extracting columns/rows - indexing and selecting
+  5. Handling missing data
+  6. Simple statistics (mean, count, median, min, max, std, corr)
+  7. Split-apply-combine methodologies (groupby)
   8. String manipulations
-  9. Regex
-  10. Split-apply-combine methodologies (if time permits)
-4. (1 3/4 h) Visualization with seaborn
+  9. (if time permits) Regex
+  10. Join and merge
+4. (1 h) Visualization with seaborn
   1. Bar plots and histograms
   2. Basic terminology
   3. Scatter plots
-  4. Box plots
 6. (1/4 h) Outlook, final questions, wrap-up etc.
 
 ### Literature:
