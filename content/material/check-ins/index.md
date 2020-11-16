@@ -45,7 +45,7 @@ Recording from the check-in can be seen [here](https://youtu.be/41LH-0x84Ws).
 
 
 
-### Check-in II: Monday November 16th from 13.00-14.30
+### Check-in II: Monday November 16th from 13.00-14.00
 
 At this check-in we will follow-up on how you are doing with the provided e-course material as well as introduce you to Google Colab. 
 
@@ -68,3 +68,9 @@ https://aaudk.zoom.us/j/61237248278
 
 Meeting ID: 612 3724 8278 
 Passcode: 293951 
+
+
+
+**Recording**
+
+Recording from the check-in can be seen [here](https://youtu.be/z1Y7nVTJxLY).
