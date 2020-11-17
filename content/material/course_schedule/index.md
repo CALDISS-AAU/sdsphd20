@@ -8,7 +8,11 @@ draft: false
 
 The main course takes place from November 23rd to November 27th. Before the course, two [check-in sessions]({{<ref "../check-ins/index.md" >}}) are held in order to help you prepare for the course.
 
+### Check-in II (Nov. 16th 2020)
 
+| Time        | Module                                                       | Link to Zoom | Instructor                          |
+| ----------- | ------------------------------------------------------------ | ------------------|----------------- |
+| 13:25-13:45 |**[ A quick introduction to Google Colab and Notebooks]({{<ref "../../sessions/_index.md#demo-notebook" >}})** | [Zoom](https://aaudk.zoom.us/j/61237248278) | Kristian G. Kjelmann |
 
 ### Monday (Nov. 23rd 2020)
 | Time        | Module                                                       | Link to Zoom              | Instructor                          |
