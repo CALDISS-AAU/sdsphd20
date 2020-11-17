@@ -1,6 +1,6 @@
 ---
 title: 'An introduction to Python for Data Science'
-draft: True
+draft: False
 weight: 1
 summary: "Description and notebook for Monday November 23rd"
 ---
@@ -37,14 +37,12 @@ The day is based on [participatory live coding](https://carpentries.github.io/in
 3. (2 1/4 h) Pandas
   1. Intro and key data structures
   2. Iterating - lists and dictionaries
-  3. File handling (CSV, STATA, SAS)
-  4. Extracting columns/rows - indexing and selecting
-  5. Handling missing data
-  6. Simple statistics (mean, count, median, min, max, std, corr)
-  7. Split-apply-combine methodologies (groupby)
-  8. String manipulations
-  9. (if time permits) Regex
-  10. Join and merge
+  3. Extracting columns/rows - indexing and selecting
+  4. Handling missing data
+  5. Simple statistics (mean, count, median, min, max, std, corr)
+  6. File handling (CSV, STATA, SAS)
+  7. Concatenate, join and merge
+  8. Split-apply-combine methodologies (groupby)
 4. (1 h) Visualization with seaborn
   1. Bar plots and histograms
   2. Basic terminology
