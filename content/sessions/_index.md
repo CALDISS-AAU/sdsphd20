@@ -20,7 +20,7 @@ Click on "Open in Colab" to open the notebook in Google Colab. You will be promp
 ---
 ## Monday
 ---
-
+### An introduction to Python and Data Science ([content]({{< ref "./mon23_intro-python/index.md">}}))
 
 
 
@@ -28,19 +28,63 @@ Click on "Open in Colab" to open the notebook in Google Colab. You will be promp
 
 ---
 
+### Unsupervised Machine Learning I: Introduction to Exploratory Data Analysis
+
+
+
+### Unsupervised Machine Learning II: Finding Patterns in Messy Data Using Clustering
+
+
+
+### Supervised Machine Learning I: Introduction to Supervised Machine Learning
+
+
+
+### Supervised Machine Learning II: Prediction and Classification (and how to use it in your research)
+
+
 
 
 ## Wednesday
 ---
+
+### Introduction to Network Analysis
+
+
+
+### Geospatial Data and Mapping
 
 
 
 ## Thursday
 ---
 
+### NLP I: Text for Exploratory Data Analysis
+
+
+
+### NLP II: Using Text in Machine Learning Pipelines
+
+
+
+### Web Mining of Firm Websites
+
+
 
 
 ## Friday
 ---
+
+### Explainable AI
+
+
+
+### Evaluating Machine Learning Models
+
+
+
+### Methodological Outlook
+
+
 
 

@@ -22,7 +22,7 @@ Due to the continued COVID-19 precautions, this course will now be held entirely
 
 
 
-## The next check-in session is coming up! (November 16th)
+## The main course will start on Monday Nov. 23rd at 9 AM!
 
-The next check-in session for this course is coming up. Read more [here]({{< ref "./material/check-ins/index.md" >}}).
+Find the schedule and more details [here]({{< ref "./material/course_schedule/index.md" >}}).
 
