@@ -13,6 +13,7 @@ summary: "The team of lecturers and organizers."
 - [Roman Jurowetzki]({{< relref "#romanj" >}})
 - [Rolf L. Lund]({{< relref "#rolf" >}})
 - [Thomas B. Moeslund]({{< relref "#thomasbm" >}})
+- [Jan Kinne]({{<relref "#jankinne">}}) (guest lecturer)
 
 ## Organizers
 - [Daniel S. Hain]({{< relref "#danielsh" >}})
@@ -70,4 +71,8 @@ I have a background in sociology. After my master in sociology of education I wa
 
 Professor in Media Technology and Computer Vision at Aalborg University
 
+---
 
+### {{<rawhtml>}}<a id = "jankinne"></a>{{</>}}[![jankinne](/sdsphd20/img/jk_head.png) Jan Kinne](https://www.zew.de/en/team/jki/)
+
+Jan Kinne has been a member of the ZEW Research Department “Economics of Innovation and Industrial Dynamics” since June 2016. He studied geoinformatics at Heidelberg University and Loughborough University, UK. In the context of his dissertation (Dr. rer. nat.) at the University of Salzburg, which he successfully completed in September 2020, he developed web-based innovation indicators for microgeographic analyses. He continues to conduct method-oriented research on the use of (text-based) web data for innovation research. In 2019 he co-founded istari.ai, a startup that specializes in web-based company and market information in real-time.
