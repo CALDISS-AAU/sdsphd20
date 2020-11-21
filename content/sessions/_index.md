@@ -28,7 +28,7 @@ Click on "Open in Colab" to open the notebook in Google Colab. You will be promp
 
 3. Pandas [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd20/blob/master/notebooks/mon23/pandas.ipynb#&offline=true&sandboxMode=true)
 
-4. Visualization [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd20/blob/master/notebooks/mon23/visualization.ipynb#&offline=true&sandboxMode=true)
+4. Visualization [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd20/blob/master/notebooks/mon23/visualization.ipynb#&offline=true&sandboxMode=true) and this [intro](github.com/CALDISS-AAU/sdsphd20/blob/master/notebooks/mon23/visual_intro.pdf)
 
 5. Wrap-up [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd20/blob/master/notebooks/mon23/wrap_up.ipynb#&offline=true&sandboxMode=true)
 
