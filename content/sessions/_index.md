@@ -38,15 +38,19 @@ Click on "Open in Colab" to open the notebook in Google Colab. You will be promp
 
 ### Unsupervised Machine Learning I: Introduction to Exploratory Data Analysis
 
+**Introduction to Machine Learning** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd20/blob/master/notebooks/tue24/SDSPhD20_intro.ipynb#&offline=true&sandboxMode=true)
 
 
 ### Unsupervised Machine Learning II: Finding Patterns in Messy Data Using Clustering
 
+**Clustering - a world of patterns** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd20/blob/master/notebooks/tue24/clustering.ipynb#&offline=true&sandboxMode=true)
 
 
 ### Supervised Machine Learning I: Introduction to Supervised Machine Learning
 
+**[Introduction to Supervised Machine Learning (slides)](https://raw.githubusercontent.com/CALDISS-AAU/sdsphd20/master/notebooks/tue24/SML_introduction_theory.html)**
 
+**Hands-on Tutorial in Supervised Machine Learning** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd20/blob/master/notebooks/tue24/SDSPhD20_Supervised-ML-tutorial.ipynb#&offline=true&sandboxMode=true)
 
 ### Supervised Machine Learning II: Prediction and Classification (and how to use it in your research)
 
