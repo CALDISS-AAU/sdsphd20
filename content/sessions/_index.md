@@ -48,7 +48,7 @@ Click on "Open in Colab" to open the notebook in Google Colab. You will be promp
 
 ### Supervised Machine Learning I: Introduction to Supervised Machine Learning
 
-**[Introduction to Supervised Machine Learning (slides)](https://raw.githubusercontent.com/CALDISS-AAU/sdsphd20/master/notebooks/tue24/SML_introduction_theory.html)**
+**[Introduction to Supervised Machine Learning (slides)](https://caldiss-aau.github.io/sdsphd20_intro-SML)**
 
 **Hands-on Tutorial in Supervised Machine Learning** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd20/blob/master/notebooks/tue24/SDSPhD20_Supervised-ML-tutorial.ipynb#&offline=true&sandboxMode=true)
 
