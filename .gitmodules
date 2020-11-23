@@ -2,3 +2,6 @@
 [submodule "themes/hugo-whisper-theme"]
 	path = themes/hugo-whisper-theme
 	url = https://github.com/zerostaticthemes/hugo-whisper-theme.git
+[submodule "notebooks/tue24/slides"]
+	path = notebooks/tue24/slides
+	url = git@github.com:CALDISS-AAU/sdsphd20_intro-SML.git
