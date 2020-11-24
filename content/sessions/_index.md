@@ -18,6 +18,15 @@ Click on "Open in Colab" to open the notebook in Google Colab. You will be promp
 **A quick introduction to Google Colab and Notebooks** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd20/blob/master/notebooks/check-ins/sdsphd20_colab-demo.ipynb#&offline=true&sandboxMode=true)
 
 ---
+## Portfolio
+
+For Tuesday, Wednesday and Thursday, you are given an hour to work on a portoflio (read more [here](https://caldiss-aau.github.io/sdsphd20/info/practical/#teaching-format)).
+
+The assignments for each day are gathered in this notebook (links to Google Colab): [Portfolio assignments](https://colab.research.google.com/github/CALDISS-AAU/sdsphd20/blob/master/notebooks/portfolio/sdsphd20_portfolio-assignments.ipynb#&offline=true&sandboxMode=true)
+
+*Remember to click "Copy to Drive" to create your own copy to work with!*
+
+---
 ## Monday
 ---
 ### An introduction to Python and Data Science ([content]({{< ref "./mon23_intro-python/index.md">}}))
@@ -53,6 +62,16 @@ Click on "Open in Colab" to open the notebook in Google Colab. You will be promp
 ### Supervised Machine Learning II: Prediction and Classification (and how to use it in your research)
 
 **Hands-on Tutorial in Supervised Machine Learning** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd20/blob/master/notebooks/tue24/SDSPhD20_Supervised-ML-tutorial.ipynb#&offline=true&sandboxMode=true)
+
+### Portfolio work: Unsupervised and supervised machine learning
+
+For portfolio work today, we are focusing on unsupervised and supervised machine learning.
+
+Link to portfolio notebook: [Portfolio assignments](https://colab.research.google.com/github/CALDISS-AAU/sdsphd20/blob/master/notebooks/portfolio/sdsphd20_portfolio-assignments.ipynb#&offline=true&sandboxMode=true)
+
+*Remember to click "Copy to Drive" to create your own copy to work with!*
+
+**Requirement for Tuesday**: Work on solutions for *either* "unsupervised machine learning with penguins" or "clustering" *and* "supervised machine learning with penguins".
 
 
 
