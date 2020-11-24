@@ -71,7 +71,7 @@ Link to portfolio notebook: [Portfolio assignments](https://colab.research.googl
 
 *Remember to click "Copy to Drive" to create your own copy to work with!*
 
-**Requirement for Tuesday**: Work on solutions for *either* "unsupervised machine learning with penguins" or "clustering" *and* "supervised machine learning with penguins".
+**Requirement for Tuesday**: Work on solutions for *either* "unsupervised machine learning with penguins" or "clustering" *and* *either* "supervised machine learning with penguins" or "employee turnover".
 
 
 
