@@ -97,7 +97,7 @@ Link to portfolio notebook: [Portfolio assignments](https://colab.research.googl
 
 *Remember to click "Copy to Drive" to create your own copy to work with! (or copy new assignments into your existing notebook)*
 
-**Requirement for Wednesday:**
+**Requirement for Wednesday:** Work on solutions for *either* the network analysis case study 1 or case study 2 *and* the exercise for spatial stuff.
 
 ## Thursday
 ---
