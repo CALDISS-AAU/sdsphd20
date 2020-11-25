@@ -103,10 +103,17 @@ Link to portfolio notebook: [Portfolio assignments](https://colab.research.googl
 ---
 
 ### NLP I: Text for Exploratory Data Analysis
+**Getting started with text** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://nbviewer.jupyter.org/github/CALDISS-AAU/sdsphd20/blob/master/notebooks/thu26/Intro_NLP.ipynb)
 
-
+**Getting Tweets** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://nbviewer.jupyter.org/github/CALDISS-AAU/sdsphd20/blob/master/notebooks/thu26/Twint_Demo_2020.ipynb)
 
 ### NLP II: Using Text in Machine Learning Pipelines
+
+**NLP and SML** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://nbviewer.jupyter.org/github/CALDISS-AAU/sdsphd20/blob/master/notebooks/thu26/Intro_to_nlp_and_supervised_tasks.ipynb)
+**NLP and UML** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://nbviewer.jupyter.org/github/CALDISS-AAU/sdsphd20/blob/master/notebooks/thu26/Unsupervised_ML_and_NLP.ipynb)
+**Bonus: FastAI SOTA Classificaiton** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://nbviewer.jupyter.org/github/CALDISS-AAU/sdsphd20/blob/master/notebooks/thu26/Fast_AI_text_classification.ipynb)
+
+
 
 
 
