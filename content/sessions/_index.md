@@ -71,7 +71,7 @@ Link to portfolio notebook: [Portfolio assignments](https://colab.research.googl
 
 *Remember to click "Copy to Drive" to create your own copy to work with!*
 
-**Requirement for Tuesday**: Work on solutions for *either* "unsupervised machine learning with penguins" or "clustering" *and* *either* "supervised machine learning with penguins" or "employee turnover".
+**Requirement for Tuesday:** Work on solutions for *either* "unsupervised machine learning with penguins" or "clustering" *and* *either* "supervised machine learning with penguins" or "employee turnover".
 
 
 
@@ -86,7 +86,18 @@ Link to portfolio notebook: [Portfolio assignments](https://colab.research.googl
 
 ### Geospatial Data and Mapping
 
+**Time for spatial stuff** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd20/blob/master/notebooks/wed25/spatial_stuff.ipynb#&offline=true&sandboxMode=true)
 
+
+### Portfolio work: Network analysis and geospatial data
+
+For portfolio work today, we are focusing on network analysis and working with geospatial data.
+
+Link to portfolio notebook: [Portfolio assignments](https://colab.research.google.com/github/CALDISS-AAU/sdsphd20/blob/master/notebooks/portfolio/sdsphd20_portfolio-assignments.ipynb#&offline=true&sandboxMode=true)
+
+*Remember to click "Copy to Drive" to create your own copy to work with! (or copy new assignments into your existing notebook)*
+
+**Requirement for Wednesday:**
 
 ## Thursday
 ---
