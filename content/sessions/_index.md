@@ -80,6 +80,8 @@ Link to portfolio notebook: [Portfolio assignments](https://colab.research.googl
 
 ### Introduction to Network Analysis
 
+**Introduction to network analysis** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd20/blob/master/notebooks/wed24/SDSPhD20_Intro-networks.ipynb#&offline=true&sandboxMode=true)
+
 
 
 ### Geospatial Data and Mapping
