@@ -30,7 +30,7 @@ Teaching consists of a mixture of lectures and exercises using interactive onlin
 
 Each day you are given an hour to work on a portfolio with the possibility of sparring with the course lecturers. Here you are expected to solve a limited number of problems using the methods and tools taught during the given day by writing your own code in a notebook.
 
-At the end of the week, you are expected to hand in your combined portfolio (the notebook containing all your code) in order to receive credits.
+Two weeks after the end of the course (December 11th 2020), you are expected to hand in your combined  portfolio (the notebook(s) containing all your code) in order to receive  credits.
 
 
 

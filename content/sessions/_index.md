@@ -20,7 +20,9 @@ Click on "Open in Colab" to open the notebook in Google Colab. You will be promp
 ---
 ## Portfolio
 
-For Tuesday, Wednesday and Thursday, you are given an hour to work on a portoflio (read more [here](https://caldiss-aau.github.io/sdsphd20/info/practical/#teaching-format)).
+For Tuesday, Wednesday and Thursday, you are given an hour to work on a portoflio.
+
+*Read more about the requirements and how to hand in your portfolio [here]({{<ref " ../content/material/portfolio/index.md" >}}).*
 
 The assignments for each day are gathered in this notebook (links to Google Colab): [Portfolio assignments](https://colab.research.google.com/github/CALDISS-AAU/sdsphd20/blob/master/notebooks/portfolio/sdsphd20_portfolio-assignments.ipynb#&offline=true&sandboxMode=true)
 
@@ -127,7 +129,11 @@ Link to portfolio notebook: [Portfolio assignments](https://colab.research.googl
 
 For portfolio work today, we are focusing on natural language processing.
 
-**Requirement:**
+Link to portfolio notebook: [Portfolio assignments](https://colab.research.google.com/github/CALDISS-AAU/sdsphd20/blob/master/notebooks/portfolio/sdsphd20_portfolio-assignments.ipynb#&offline=true&sandboxMode=true)
+
+*Remember to click "Copy to Drive" to create your own copy to work with!*
+
+**Requirement:** Work on solutions for the "Trump vs. GPT-2" assignment.
 
 
 
@@ -144,6 +150,7 @@ For portfolio work today, we are focusing on natural language processing.
 
 ### Methodological Outlook
 
+This sessions is an open discussion between the instructors and the participants. The main instructors of the course will be present to answer questions, discuss ideas and suggest where to go from this course.
 
 
 

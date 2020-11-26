@@ -58,7 +58,7 @@ The main course takes place from November 23rd to November 27th. Before the cour
 | 9:00-10:30  | **[Explainable AI]({{<ref "../../sessions/_index.md#friday">}})**| [Link to Zoom](https://aaudk.zoom.us/j/64133157907) (Passcode: 360949) | Thomas B. Moeslund |
 | 10:30-12:00 | **[Evaluating Machine Learning Models]({{<ref "../../sessions/_index.md#friday">}})** | [Link to Zoom](https://aaudk.zoom.us/j/64133157907) (Passcode: 360949) | Daniel S. Hain & Roman Jurowetzki |
 | 12:00-13:00 | *LUNCH*                   |                                     |                                     |
-| 13:00-14:00 | **[Methodological Outlook]({{<ref "../../sessions/_index.md#friday">}})** | [Link to Zoom](https://aaudk.zoom.us/j/63991036989) (Passcode: 677156) | TBD |
+| 13:00-14:00 | **[Methodological Outlook]({{<ref "../../sessions/_index.md#friday">}})** | [Link to Zoom](https://aaudk.zoom.us/j/63991036989) (Passcode: 677156) | Daniel S. Hain, Roman Jurowetzki & Rolf L. Lund |
 | 14:00 | **Goodbye!**| | |
 
 ---
