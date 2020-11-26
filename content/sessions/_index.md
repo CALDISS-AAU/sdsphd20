@@ -146,6 +146,8 @@ Link to portfolio notebook: [Portfolio assignments](https://colab.research.googl
 
 ### Evaluating Machine Learning Models
 
+**Hands-on Introduction to Explainable ML & AI** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd20/blob/master/notebooks/fri27/SDS_PHD_Explainable_ML.ipynb#&offline=true&sandboxMode=true)
+
 
 
 ### Methodological Outlook
