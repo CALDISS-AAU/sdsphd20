@@ -119,7 +119,7 @@ Link to portfolio notebook: [Portfolio assignments](https://colab.research.googl
 
 ### Web Mining of Firm Websites
 
-**EZ text mining** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/datawizard1337/EZ_Text_Mining/blob/master/Text_Mining.ipynb.ipynb#&offline=true&sandboxMode=true)
+**EZ text mining** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/datawizard1337/EZ_Text_Mining/blob/master/Text_Mining.ipynb#&offline=true&sandboxMode=true)
 
 
 
