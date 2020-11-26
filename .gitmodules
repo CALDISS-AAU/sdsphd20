@@ -5,3 +5,6 @@
 [submodule "notebooks/tue24/slides"]
 	path = notebooks/tue24/slides
 	url = git@github.com:CALDISS-AAU/sdsphd20_intro-SML.git
+[submodule "notebooks/thu26/web-mine"]
+	path = notebooks/thu26/web-mine
+	url = https://github.com/datawizard1337/EZ_Text_Mining.git
