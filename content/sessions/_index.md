@@ -119,7 +119,9 @@ Link to portfolio notebook: [Portfolio assignments](https://colab.research.googl
 
 
 
-### Web Mining of Firm Websites
+### Web Mining of Firm Websites (guest lecture by Jan Kinne)
+
+**[Web Mining of Firm Websites (slides)](https://github.com/CALDISS-AAU/sdsphd20/raw/master/notebooks/thu26/slides/web_mining_of_firm_websites.pdf)**
 
 **EZ text mining** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/datawizard1337/EZ_Text_Mining/blob/master/Text_Mining.ipynb#&offline=true&sandboxMode=true)
 
