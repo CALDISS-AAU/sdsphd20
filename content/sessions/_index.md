@@ -142,7 +142,9 @@ Link to portfolio notebook: [Portfolio assignments](https://colab.research.googl
 ## Friday
 ---
 
-### Explainable AI
+### Explainable AI (guest lecture by Thomas B. Moeslund)
+
+**[Deep Learning & XAI (slides)](https://github.com/CALDISS-AAU/sdsphd20/raw/master/notebooks/fri27/slides/tbm_XAI_slides.pdf)**
 
 
 
