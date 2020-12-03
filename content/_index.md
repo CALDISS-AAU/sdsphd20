@@ -22,7 +22,7 @@ Due to the continued COVID-19 precautions, this course will now be held entirely
 
 
 
-## The main course will start on Monday Nov. 23rd at 9 AM!
+## Deadline for portfolio hand-in is on December 11th!
 
-Find the schedule and more details [here]({{< ref "./material/course_schedule/index.md" >}}).
+Read more about portfolio requirements and how to hand in [here]({{< ref "./material/portfolio/index.md" >}}).
 
