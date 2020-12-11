@@ -134,11 +134,27 @@ https://learn.datacamp.com/courses/statistical-thinking-in-python-part-2
 
 ## Supplementary courses for Tuesday (Nov. 24th)
 
+**Unsupervised Learning in Python**
+
+https://learn.datacamp.com/courses/unsupervised-learning-in-python
+
+
+
+**Supervised Learning with scikit-learn**
+
+https://learn.datacamp.com/courses/supervised-learning-with-scikit-learn
+
 
 
 ---
 
 ## Supplementary courses for Wednesday (Nov. 25th)
+
+**Introduction to Network Analysis in Python**
+
+https://learn.datacamp.com/courses/introduction-to-network-analysis-in-python
+
+- Comment from Daniel Hain: "They [the network analysis courses on DataCamp] are nice to get an overall overview but I would not spent too much time on them. I find them a bit clunky and over-engineered."
 
 
 
@@ -146,11 +162,27 @@ https://learn.datacamp.com/courses/statistical-thinking-in-python-part-2
 
 ## Supplementary courses for Thursday (Nov. 26th)
 
+**Introduction to Natural Language Processing in Python**
 
+https://learn.datacamp.com/courses/introduction-to-natural-language-processing-in-python
+
+
+
+**Feature Engineering for NLP in Python**
+
+https://learn.datacamp.com/courses/feature-engineering-for-nlp-in-python
+
+
+
+**Analyzing Social Media Data in Python**
+
+https://learn.datacamp.com/courses/analyzing-social-media-data-in-python
 
 ---
 
 ## Supplementary courses for Friday (Nov. 27th)
 
+**Introduction to Deep Learning with Keras**
 
+https://learn.datacamp.com/courses/introduction-to-deep-learning-with-keras
 
